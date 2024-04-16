@@ -1,0 +1,48 @@
+.container {
+    width: 950px;
+    background-color: #eaeaea;
+    margin: 0 auto;
+}
+
+.top-nav {
+    height: 235px;
+    width: 1000px;
+    background-color: #e4a880;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.topi {
+    height: 200px;
+    width: 1000px;
+    background-color: #6bd46b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ola {
+    height: 200px;
+    width: 1000px;
+    background-color: #f0a4a4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.complet {
+    height: 60px;
+    width: 1000px;
+    background-color: #e3f0c1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 230px;
+    height: 160px;
+    margin: 0 50px;
+}
+
